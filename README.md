@@ -1,27 +1,40 @@
-# Biblioteca Interactiva UAM
+# HabitU
 
-Aplicación móvil educativa desarrollada en Android Studio con Jetpack Compose, orientada a facilitar la adaptación de estudiantes de nuevo ingreso a la biblioteca de la UAM mediante mecánicas de juego.
-
----
-
-## Descripción
-
-Este proyecto propone una experiencia interactiva dentro de un entorno simulado de biblioteca, donde el usuario debe completar diferentes misiones para aprender a ubicarse dentro del espacio.
-
-A través de dinámicas tipo juego, los estudiantes podrán:
-- Identificar secciones de la biblioteca
-- Ubicar libros según su área académica
-- Interactuar con personajes (NPC)
-- Resolver retos en un entorno gamificado
-
-## Objetivo
-
-Facilitar la orientación y familiarización de los estudiantes dentro de la biblioteca de la UAM mediante una aplicación interactiva basada en misiones.
+Aplicación móvil desarrollada en Android Studio con Jetpack Compose, orientada al seguimiento de hábitos académicos y sostenibilidad en estudiantes universitarios.
 
 ---
 
-## Tecnologías utilizadas
+## 📱 Descripción
+
+EcoCampus UAM es una aplicación que busca mejorar la experiencia estudiantil mediante el registro y seguimiento de actividades académicas y hábitos diarios, integrando elementos de motivación y conciencia ecológica.
+
+La aplicación permite a los estudiantes:
+
+- Registrar sus datos académicos
+- Gestionar hábitos diarios (asistencia, puntualidad, estudio)
+- Dar seguimiento a su progreso personal
+- Incentivar buenas prácticas mediante una experiencia interactiva
+
+---
+
+## 🎯 Objetivo
+
+Fomentar la responsabilidad académica y la conciencia ambiental en los estudiantes de la UAM mediante una aplicación móvil interactiva y fácil de usar.
+
+---
+
+## 🚀 Tecnologías utilizadas
 
 - Kotlin
 - Jetpack Compose
 - Android Studio
+
+---
+
+## 🤖 Uso de Inteligencia Artificial
+
+Se utilizaron herramientas de inteligencia artificial como apoyo para:
+
+- Generación de ideas de diseño de interfaz
+- Mejora en la estructura del código
+- Resolución de dudas durante el desarrollo

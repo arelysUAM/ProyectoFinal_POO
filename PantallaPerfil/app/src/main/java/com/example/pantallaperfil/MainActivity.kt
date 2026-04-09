@@ -93,7 +93,8 @@ fun PerfilFondo(modifier: Modifier = Modifier) {
                 value = nombre,
                 onValueChange = { nombre = it },
                 label = { Text("Nombre") },
-                modifier = Modifier.fillMaxWidth()
+                modifier = Modifier.fillMaxWidth(),
+                enabled = editando
             )
 
             Spacer(modifier = Modifier.height(12.dp))
@@ -102,7 +103,8 @@ fun PerfilFondo(modifier: Modifier = Modifier) {
                 value = apellido,
                 onValueChange = { apellido = it },
                 label = { Text("Apellido") },
-                modifier = Modifier.fillMaxWidth()
+                modifier = Modifier.fillMaxWidth(),
+                enabled = editando
             )
 
             Spacer(modifier = Modifier.height(12.dp))
@@ -111,7 +113,8 @@ fun PerfilFondo(modifier: Modifier = Modifier) {
                 value = correo,
                 onValueChange = { correo = it },
                 label = { Text("Correo") },
-                modifier = Modifier.fillMaxWidth()
+                modifier = Modifier.fillMaxWidth(),
+                enabled = editando
             )
 
             Spacer(modifier = Modifier.height(12.dp))
@@ -120,7 +123,8 @@ fun PerfilFondo(modifier: Modifier = Modifier) {
                 value = carrera,
                 onValueChange = { carrera = it },
                 label = { Text("Carrera") },
-                modifier = Modifier.fillMaxWidth()
+                modifier = Modifier.fillMaxWidth(),
+                enabled = editando
             )
 
             Spacer(modifier = Modifier.height(24.dp))
